@@ -1,0 +1,41 @@
+{
+  "name": "Link Pack 1",
+  "type": "Booster Pack",
+  "date": "2019-02-14",
+  "distribution": "booster_pack",
+  "prefix": "LP01",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Wee Witch's Apprentice",
+      "set_number": "LP01-01",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }, 
+    {
+      "card_name": "Missus Radiant",
+      "set_number": "LP01-02",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }, 
+    {
+      "card_name": "Duelittle Chimera",
+      "set_number": "LP01-03",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    }
+  ]
+}
