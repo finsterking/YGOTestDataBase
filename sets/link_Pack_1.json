@@ -36,6 +36,16 @@
       "count": {
         "Rare": 1
       }
+      },
+    {
+      "card_name": "Xtra HERO Wonder Driver",
+      "set_number": "LP01-04",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
     }
   ]
 }
